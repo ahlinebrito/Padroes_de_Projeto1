@@ -1,7 +1,7 @@
 # 📂 Padrões de Projeto 1
 
 Este repositório contém exemplos práticos dos seguintes padrões de projeto:  
-**Singleton**, **Factory Method** e **Abstract Method**.
+**Singleton**, **Factory Method** e **Abstract Factory**.
 
 ---
 
