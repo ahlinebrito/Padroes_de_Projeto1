@@ -21,7 +21,7 @@ Assim, você não precisa saber a receita, nem como a máquina funciona.
 
 ---
 
-## 🔵 Abstract Method — Exemplo: *Loja de Móveis*
+## 🔵 Abstract Factory — Exemplo: *Loja de Móveis*
 
 O Abstract Method **cria famílias de objetos relacionados que combinam entre si**.  
 
